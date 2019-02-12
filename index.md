@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Grace
 
-
+<!DOCTYPE html>
+<html>
+<body>
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#news">News</a>
@@ -22,6 +24,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <div class="main">
   <p>Some text some text some text some text..</p>
 </div>
+</body>
+</html>
 
 
 - Bulleted

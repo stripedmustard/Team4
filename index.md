@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # H1
-## h2
-### h3
+## H2
+### H3
 
 - Bulleted
 - List

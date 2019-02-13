@@ -30,6 +30,9 @@ https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md
 https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
+1/29/19
+
+2/12/19
 # decisions
 # key facts
 # references

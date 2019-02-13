@@ -46,10 +46,13 @@ Group meeting- built website for developer notes, test Web Crawler application
 
 
 # decisions
+
 # key facts
 # references
 # actions
-# Bullet
+
+
+
 - Bulleted
 - List
 

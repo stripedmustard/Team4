@@ -33,6 +33,8 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 1/29/19
 Group meeting- made offline 
 
+2/6/19
+
 2/12/19
 Group meeting- built website
 

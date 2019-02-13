@@ -15,8 +15,9 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
 <body>
 	<li><a href="#grace">Grace</a></li>
 	
-</html>
 </body>
+</html>
+https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md
 
 ## Jacob
 <html>
@@ -25,6 +26,8 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
  
 </body>
 </html>
+
+https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 # decisions

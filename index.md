@@ -17,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <body>
   <li><a href="#dean">Dean</a></li>
 	<li><a href="#grace">Grace</a></li>
-	<li><a href="#jacob"></a>Jacob</li>
+	<li><a href="#jacob">Jacob</a></li>
  
 </body>
 </html>

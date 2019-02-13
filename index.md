@@ -34,4 +34,11 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
 1. Numbered
 2. List
 
+
+1. daily activities
+2. decisions
+3. key facts
+4. references
+5. actions
+
 **Bold** and _Italic_ and `Code` text

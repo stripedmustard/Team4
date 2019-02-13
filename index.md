@@ -26,7 +26,7 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
 </body>
 </html>
 
-# daily activities
+# _daily activities_
 # decisions
 # key facts
 # references

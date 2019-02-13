@@ -30,13 +30,19 @@ https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md
 https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
+
+Met with Ryan at RGAN
+
 1/29/19
-Group meeting- made offline 
+Group meeting- made offline site
+
+Met with Ryan and Lonnie via Google Hangouts
 
 2/6/19
+FPAT- talked about making website, updating the Web Crawler application
 
 2/12/19
-Group meeting- built website
+Group meeting- built website for developer notes, test Web Crawler application
 
 
 # decisions

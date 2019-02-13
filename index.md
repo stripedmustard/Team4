@@ -25,12 +25,12 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
 </body>
 </html>
 
-## daily activities
-## decisions
-## key facts
-## references
-## actions
-## Bullet
+# daily activities
+# decisions
+# key facts
+# references
+# actions
+# Bullet
 - Bulleted
 - List
 

@@ -31,12 +31,21 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 
-Met with Ryan at RGAN
+Met with Ryan at RGAN:
+	discussed more in detail about the Blog Bot
+	recommended anount of words (500-1000)
+	
 
 1/29/19
 Group meeting- made offline site
 
-Met with Ryan and Lonnie via Google Hangouts
+Met with Ryan and Lonnie via Google Hangouts:
+	Page Optimzer Pro- application similar to our project
+	Focus of DUI when making the Blog 
+	
+
+
+
 
 2/6/19
 FPAT- talked about making website, updating the Web Crawler application

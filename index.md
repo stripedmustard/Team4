@@ -31,8 +31,12 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 1/29/19
+Group meeting- made offline 
 
 2/12/19
+Group meeting- built website
+
+
 # decisions
 # key facts
 # references

@@ -25,10 +25,12 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
 </body>
 </html>
 
-
+## Bullet
 - Bulleted
 - List
 
+
+## Numbered List
 1. Numbered
 2. List
 

@@ -8,7 +8,7 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
   <li><a href="dean">Dean</a></li>  
 	</body>
 	</html>
-	  https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md"
+	  https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md
 	
 ## Grace
 <html>

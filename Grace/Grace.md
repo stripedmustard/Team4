@@ -12,5 +12,9 @@
   
   
   We met with both Ryan and Lonnie to discuss the implementation of the project and how to get a leg up on the project. Lonnie presented an application, Page Optimizer Pro, that will help us tremendously with our project. This application checks for the rankings of website on Google. He further suggested that it is beneficial to include minimal usage of the keyword in each article since excess use of a keyword willl hurt our Google rankings. 
+  
+ We met today to utilize Page Optimizer Pro and to see how this will benefit us in the project.
+ 
+ Today we met with Ryan and Lonnie to update them on our progress with the project and what we would like to have finished by the end of the semester. Up until now, we are able to use the Web Crawler to find an article and the offline Wordpress plugin is able to copy the article and post a draft. We discussed that by the end of the semester, we would like the plugin to only copy imporant and relevant part of the article rather than copying the entire article. 
 </body>
 </html>

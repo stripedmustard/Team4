@@ -59,10 +59,15 @@ Met with Ryan to talk about Page Optimizer Pro, give an update on the current pr
 
 
 
-# decisions
 
+
+# decisions
+We decided that we would send an email after generating an article 
 # key facts
+
+
 # references
+
 # actions
 
 

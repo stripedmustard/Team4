@@ -31,7 +31,7 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 _1/18/19_
-<p>
+<p></p>
 Met with Ryan at RGAN:
 - discussed more in detail about the Blog Bot
 - recommended anount of words (500-1000 words)

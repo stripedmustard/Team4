@@ -49,12 +49,13 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 2/6/19
 - we talked about creating the team website
 - updating the Web Crawler application
-
+<p>
+	
 2/12/19
 - We built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
 - Tested Web Crawler
 - Utilize Page Optimizer Pro
-
+<p>
 
 
 3/1/19

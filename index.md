@@ -31,25 +31,29 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 
+1/19/19
 Met with Ryan at RGAN:
-	discussed more in detail about the Blog Bot
-	recommended anount of words (500-1000 words)
+- discussed more in detail about the Blog Bot
+- recommended anount of words (500-1000 words)
 	
 
 1/29/19
-Group meeting-We made an offline Wordpress article that can copy articles and post them on the Wordpress site. 
+- Created an offline Wordpress plugin
 
-Met with Ryan and Lonnie via Google Hangouts:
-	Page Optimzer Pro- application similar to our project
-	Focus of DUI when making the Blog 
+
+Met with Ryan and Lonnie via Google Hangouts and discussed:
+- Page Optimzer Pro, an application that will help us tremendously
 	
 	
 
 2/6/19
-FPAT- talked about making website, updating the Web Crawler application
+- we talked about creating the team website
+- updating the Web Crawler application
 
 2/12/19
-Group meeting- built website for developer notes, test Web Crawler application
+- We built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
+- Tested Web Crawler
+- Utilize Page Optimizer Pro
 
 
 
@@ -62,11 +66,14 @@ Met with Ryan to talk about Page Optimizer Pro, give an update on the current pr
 
 
 # decisions
-We decided that we would send an email after generating an article 
-# key facts
+- After talking with Ryan, we decided that the Blog Bot would send an email after it generates an article
+- At the end of the semester, we would like the Bot to 
 
+# key facts
+- 
 
 # references
+- Company Website https://cirlegal.com/
 
 # actions
 

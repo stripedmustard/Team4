@@ -75,8 +75,6 @@ Met with Ryan to talk about Page Optimizer Pro, give an update on the current pr
 
 # decisions
 - After talking with Ryan, we decided that the Blog Bot would send an email after it generates an article
-- At the end of the semester, we would like the Bot to 
-
 # key facts
 - 
 

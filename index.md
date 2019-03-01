@@ -31,7 +31,7 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 
-1/19/19
+1/18/19
 Met with Ryan at RGAN:
 - discussed more in detail about the Blog Bot
 - recommended anount of words (500-1000 words)
@@ -39,10 +39,17 @@ Met with Ryan at RGAN:
 
 1/29/19
 - Created an offline Wordpress plugin
+- Research about developing a Web Crawler
+- Research important keywords and phrases 
+- Worked on creating the Web Crawler
 
 
 Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Page Optimzer Pro, an application that will help us tremendously
+- How to get high on Google Rankings
+- Potential faults with the Blog Bot, regarding potential issues that could hurt the Google ranking of a website
+
+
 	
 	
 

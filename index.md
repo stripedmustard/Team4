@@ -31,10 +31,9 @@ https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 _1/18/19_
-<p></p>
-Met with Ryan at RGAN:
-- discussed more in detail about the Blog Bot
-- recommended anount of words (500-1000 words)
+- Met with Ryan at RGAN
+- Discussed more in detail about the Blog Bot
+- Recommended anount of words (500-1000 words)
 	
 
 _1/29/19_
@@ -50,19 +49,21 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Potential faults with the Blog Bot, regarding potential issues that could hurt the Google ranking of a website
 
 _2/6/19_
-- we talked about creating the team website
-- updating the Web Crawler application
-<p>
+- Talked about creating the team website
+- Updating the Web Crawler application
+
 	
 _2/12/19_
-- We built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
+- Built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
 - Tested Web Crawler
 - Utilize Page Optimizer Pro
-<p>
+
 
 
 _3/1/19_
-Met with Ryan to talk about Page Optimizer Pro, give an update on the current project. Currently, we have a prototype that includes a Web Crawler and an offline Wordpress plugin. Currently, our offline Wordpress plugin can find articles relevant to the key word, copy them and publish said articles to the Wordpess site. 
+- Met with Ryan to talk about Page Optimizer Pro
+- Give an update on the current project
+Currently, we have a prototype that includes a Web Crawler and an offline Wordpress plugin. Currently, our offline Wordpress plugin can find articles relevant to the key word, copy them and publish said articles to the Wordpess site. 
 
 
 

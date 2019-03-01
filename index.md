@@ -30,14 +30,13 @@ https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md
 https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
-
-1/18/19
+_1/18/19_
 Met with Ryan at RGAN:
 - discussed more in detail about the Blog Bot
 - recommended anount of words (500-1000 words)
 	
 
-1/29/19
+_1/29/19_
 - Created an offline Wordpress plugin
 - Research about developing a Web Crawler
 - Research important keywords and phrases 
@@ -53,19 +52,19 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 	
 	
 
-2/6/19
+_2/6/19_
 - we talked about creating the team website
 - updating the Web Crawler application
 <p>
 	
-2/12/19
+_2/12/19_
 - We built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
 - Tested Web Crawler
 - Utilize Page Optimizer Pro
 <p>
 
 
-3/1/19
+_3/1/19_
 Met with Ryan to talk about Page Optimizer Pro, give an update on the current project. Currently, we have a prototype that includes a Web Crawler and an offline Wordpress plugin. Currently, our offline Wordpress plugin can find articles relevant to the key word, copy them and publish said articles to the Wordpess site. 
 
 

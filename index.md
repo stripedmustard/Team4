@@ -30,7 +30,7 @@ https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md
 https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
-_1/18/19_
+**_1/18/19_**
 - Met with Ryan at RGAN
 - Discussed more in detail about the Blog Bot
 - Recommended anount of words (500-1000 words)
@@ -79,6 +79,3 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 
 **_3/6/19_**
 - Present Architecture Design Presentation
-
-# references
-- Company Website https://cirlegal.com/

@@ -65,7 +65,7 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Give an update on the current project
 Currently, we have a prototype that includes a Web Crawler and an offline Wordpress plugin. Currently, our offline Wordpress plugin can find articles relevant to the key word, copy them and publish said articles to the Wordpress site. 
 
-_3/4/19_
+**_3/4/19_**
 - Met at Presentation U to review presentation that will be presented on Wednesday March 6
 - Listened to suggestions made by Presentation U tutor
 - 
@@ -91,4 +91,4 @@ _3/4/19_
 
 
 
-**Bold** and _Italic_ and `Code` text
+ `Code` text

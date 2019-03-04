@@ -80,24 +80,5 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 **_3/6/19_**
 - Present Architecture Design Presentation
 
-
-
-# decisions
-- After talking with Ryan, we decided that the Blog Bot would send an email after it generates an article
-# key facts
-
-
 # references
 - Company Website https://cirlegal.com/
-
-# actions
-
-
-## Numbered List
-1. Numbered
-2. List
-
-
-
-
- `Code` 

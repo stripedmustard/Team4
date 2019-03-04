@@ -36,36 +36,39 @@ _1/18/19_
 - Recommended anount of words (500-1000 words)
 	
 
-_1/29/19_
+**_1/29/19_**
 - Created an offline Wordpress plugin
 - Research about developing a Web Crawler
 - Research important keywords and phrases 
 - Worked on creating the Web Crawler
 
-_2/1/19_
+**_2/1/19_**
 Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Page Optimzer Pro, an application that will help us tremendously
 - How to get high on Google Rankings
 - Potential faults with the Blog Bot, regarding potential issues that could hurt the Google ranking of a website
 
-_2/6/19_
+**_2/6/19_**
 - Talked about creating the team website
 - Updating the Web Crawler application
 
 	
-_2/12/19_
+**_2/12/19_**
 - Built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
 - Tested Web Crawler
 - Utilize Page Optimizer Pro
 
 
 
-_3/1/19_
+**_3/1/19_**
 - Met with Ryan to talk about Page Optimizer Pro
 - Give an update on the current project
-Currently, we have a prototype that includes a Web Crawler and an offline Wordpress plugin. Currently, our offline Wordpress plugin can find articles relevant to the key word, copy them and publish said articles to the Wordpess site. 
+Currently, we have a prototype that includes a Web Crawler and an offline Wordpress plugin. Currently, our offline Wordpress plugin can find articles relevant to the key word, copy them and publish said articles to the Wordpress site. 
 
-
+_3/4/19_
+- Met at Presentation U to review presentation that will be presented on Wednesday March 6
+- Listened to suggestions made by Presentation U tutor
+- 
 
 
 
@@ -73,17 +76,12 @@ Currently, we have a prototype that includes a Web Crawler and an offline Wordpr
 # decisions
 - After talking with Ryan, we decided that the Blog Bot would send an email after it generates an article
 # key facts
-- 
+
 
 # references
 - Company Website https://cirlegal.com/
 
 # actions
-
-
-
-- Bulleted
-- List
 
 
 ## Numbered List

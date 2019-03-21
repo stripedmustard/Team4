@@ -55,13 +55,10 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Talked about creating the team website
 - Updating the Web Crawler application
 
-	
 **_2/12/19_**
 - Built a website to provide a detail of our team meetings, hold our developer notes, and progress with our project
 - Tested Web Crawler
 - Utilize Page Optimizer Pro
-
-
 
 **_3/1/19_**
 - Met with Ryan to talk about Page Optimizer Pro
@@ -81,4 +78,10 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Met with Ryan to show prototype of project
 
 **_3/6/19_**
-- Present Architecture Design Presentation
+- Presented Architecture Design Presentation
+
+**_3/19/19_**
+- Met with Ryan and showed prototype 
+- Prototype Test 1
+	<a href="https://www.youtube.com/watch?v=KMXrVrTFd3Y">Jacob</a>
+

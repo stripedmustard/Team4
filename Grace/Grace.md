@@ -15,7 +15,7 @@ We met with both Ryan and Lonnie to discuss the implementation of the project an
   
 We met today and tested out Page Optimizer Pro to see how it will benefit us in the project.
  
-3/1/19
+3/1/19<p>
 Today we met with Ryan and Lonnie to update them on our progress with the project and what we would like to have finished by the end of the semester. Up until now, we are able to use the Web Crawler to find an article and the offline Wordpress plugin is able to copy the article and post a draft. We discussed that by the end of the semester, we would like the plugin to only copy important parts of the article rather than copying the entire article. 
 
 

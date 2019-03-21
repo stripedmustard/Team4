@@ -44,7 +44,6 @@
 - Meeting with Ryan
 - Went into specifics about the Blog Bot
 - We agreed that the recommended amount of words is 500-1000 words
-- 
 
 **_1/24/19_**
 - Creating the Web Crawler

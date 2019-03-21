@@ -41,16 +41,19 @@
 
 # _daily activities_
 **_1/18/19_**
-- Met with Ryan at RGAN
-- Discussed more in detail about the Blog Bot
-- Recommended anount of words (500-1000 words)
-	
+- Meeting with Ryan
+- Went into specifics about the Blog Bot
+- We agreed that the recommended amount of words is 500-1000 words
+- 
+
+**_1/24/19_**
+- Creating the Web Crawler
+- Research about developing the Web Crawler
+
 
 **_1/29/19_**
 - Created an offline Wordpress plugin
-- Research about developing a Web Crawler
-- Research important keywords and phrases 
-- Worked on creating the Web Crawler
+- Research important keywords and phrases for the Blog Bot
 
 **_2/1/19_**<p>
 Met with Ryan and Lonnie via Google Hangouts and discussed:<p>
@@ -77,7 +80,6 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:<p>
 - Met at Presentation U to review presentation that will be presented on Wednesday March 6
 - Presentation was critiqued by Presentation U tutor
 - Listened to suggestions made by Presentation U tutor
-- Updated slide in presentation to include 
 - Practiced Architecture Design Presentation
 
 **_3/5/19_**
@@ -88,7 +90,7 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:<p>
 - Presented Architecture Design Presentation
 
 **_3/19/19_**
-- Met with Ryan and showed prototype 
-
+- Met with Ryan
+- Presented prototype
 
 

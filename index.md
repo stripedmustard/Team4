@@ -5,33 +5,28 @@ https://github.com/stripedmustard/Team4/edit/master/index.md
 <!DOCTYPE html>
 <html>
 <body>
-  <li><a href="dean">Dean</a></li>  
+		<a href="https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md">Dean</a>	
 	</body>
 	</html>
-	  https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md
 	
 ## Grace
 <html>
 <body>
-	<li><a href="#grace">Grace</a></li>
-	
+	<a href="https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md">Grace</a>	
 </body>
 </html>
-https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md
 
-<a href="https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md">Grace</a>
 
 
 
 ## Jacob
 <html>
 <body>
-	<li><a href="#jacob">Jacob</a></li>
+	<a href="https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md">Jacob</a>
  
 </body>
 </html>
 
-https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md
 
 # _daily activities_
 **_1/18/19_**

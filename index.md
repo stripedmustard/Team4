@@ -3,7 +3,8 @@
 <html>
 <body>
 <a href="https://github.com/stripedmustard/Team4/edit/master/index.md">Team 4</a>	
-
+</body>
+</html>
 
 ## Dean
 

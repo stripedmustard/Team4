@@ -53,7 +53,7 @@
 - Worked on creating the Web Crawler
 
 **_2/1/19_**
-Met with Ryan and Lonnie via Google Hangouts and discussed:
+<p> Met with Ryan and Lonnie via Google Hangouts and discussed:
 - Page Optimzer Pro, an application that will help us tremendously
 - How to get high on Google Rankings
 - Potential faults with the Blog Bot, regarding potential issues that could hurt the Google ranking of a website

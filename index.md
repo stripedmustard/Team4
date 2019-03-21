@@ -92,4 +92,5 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:<p>
 - Met with Ryan
 - Presented prototype
 
+Word count: 253
 

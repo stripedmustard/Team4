@@ -31,6 +31,13 @@
 </body>
 </html>
 
+## Prototype
+<html>
+<body>
+	<a href="https://www.youtube.com/watch?v=KMXrVrTFd3Y">Prototype Test 1</a>
+</body>
+</html>
+
 
 # _daily activities_
 **_1/18/19_**
@@ -83,6 +90,5 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 **_3/19/19_**
 - Met with Ryan and showed prototype 
 
-## Prototype
-	<a href="https://www.youtube.com/watch?v=KMXrVrTFd3Y">Prototype Test 1</a>
+
 

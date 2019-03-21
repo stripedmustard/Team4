@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p> Monkeys </p>
+<p>  </p>
 </body>
 </html>

@@ -38,10 +38,18 @@
 </body>
 </html>
 
+## Architecture Presentation
+<html>
+<body>
+
+</body>
+</html>
+
+
 
 # _daily activities_
 **_1/18/19_**
-- Meeting with Ryan
+- Met with Ryan
 - Went into specifics about the Blog Bot
 - We agreed that the recommended amount of words is 500-1000 words
 

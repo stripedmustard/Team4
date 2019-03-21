@@ -47,7 +47,7 @@
 
 
 
-# _daily activities_
+# Daily Activities
 **_1/18/19_**
 - Met with Ryan
 - Went into specifics about the Blog Bot

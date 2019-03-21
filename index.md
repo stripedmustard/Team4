@@ -82,6 +82,7 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:
 
 **_3/19/19_**
 - Met with Ryan and showed prototype 
-- Prototype Test 1
-	<a href="https://www.youtube.com/watch?v=KMXrVrTFd3Y">Jacob</a>
+
+**Prototype**
+	<a href="https://www.youtube.com/watch?v=KMXrVrTFd3Y">Prototype Test 1</a>
 

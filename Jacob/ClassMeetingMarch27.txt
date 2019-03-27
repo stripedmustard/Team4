@@ -1,0 +1,17 @@
+Today we are to meet with Dr. Chartos, 
+The past I have been mostly busy, but I have been doing work for another project that is closely related. 
+The work I have done is building a parser that decomposes articles into an inverted index. This inverted index maps content
+to documents. Thus if we want to know what document has the word "search", it is easy to see all the documents, locations in 
+that document, and the count of the word in that document.
+Dean said that he had a family emergency and thus hasn't able to make significant progress but has communicated with who is
+actually hosting the website, and has gotten credentials that supposedly will allow us to install our plugin on the wordpress 
+site. 
+Grace said that she has been working on updating the website.
+When we meet next, we are to lay out a plan on what we want to store so Grace can start working in depth on the database. 
+Dean and I also need to discuss how we are going to make our selection for the article more intelligent. Thus Ryan will have to
+do less editing. We are unclear exactly when we are able to meet, but likely will we be able to get more work done before the next
+class meeting, and thus will have more to report. 
+In order to better keep my thoughts organized, and so other can view my perspecitve on our progress of the project, I am going
+to be more mindful in keeping notes. I will keep more notes with Class Meetings, and Team Meetings.
+
+Word Count: 268 Words. 

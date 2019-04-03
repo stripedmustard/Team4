@@ -1,0 +1,10 @@
+Today I again worked on an assignment for another class, but again this work is very applicable to the work I am to do for this project, so I am update notes here.
+This project is the usage of google like algorithm to discover which of the documents we have recorded in our corpus best fit a query.
+If the query is something we want to optimize or (such as "personal injury" or "DUI lawyer') we can thus with the program easily find a document that matches our query.
+This testing to see if a document "matches" our query is done by combining PageRank (a google algorithm that ranks pages based on their link graph) and 
+the cosine similarity between the words in the query and each document.
+While this accomplishment would be helpful if one already had a corpus of documents we think are good articles, and then could have a human go through what we wanted to 
+optimize manually (i.e. going through each query we want to optimize for, and go through these articles returned to see if we have already used these to make an article) that 
+is not our ultimate goal, and thus more must be done automatically for our team to be satisified with the product.
+Thus, some of the work I plan to do when I next work individually is to refine the database searcher so that results better correspond to what I think good article are, 
+and to create some program that automatically finds the top (somewhere in the range of 5 to 10) articles for all the given topics in a file or database.

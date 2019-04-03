@@ -100,5 +100,27 @@ Met with Ryan and Lonnie via Google Hangouts and discussed:<p>
 - Met with Ryan
 - Presented prototype
 
-Word count: 253
+**_4/3/19_**
+We met today and talked about what each person will be working on moving forward. Grace will be working on the database. She will use a Lamp server which should be compatible with our Web Scraper. In our database, we will save the articles that we
 
+Grace will get access to Netlab and start the process of creating a LAMP server. 
+
+list of pages we ned to fetch and list of pages that we have already fetched
+If the time permits, we would like to have date that the article was fetched
+Adjacency list- each URL followed by the thing that URL points to on its page
+Dean needs to get the plugin to call the Script
+The databse will save the URL, the 
+The difficult task to store Python dictionaries into a MYSQL database
+
+We want our plugin to:
+	
+	
+	
+We want to have a sample of the database ready before we visit Ryan
+
+create plugin settings menu
+
+
+store a python list or dictionary in a MySQL database
+
+Last Word count: 253

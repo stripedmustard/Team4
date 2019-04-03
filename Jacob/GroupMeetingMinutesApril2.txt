@@ -1,0 +1,21 @@
+Today we met and intended to clarify what individual goals each person needed to accoplish (as there was a bit of overlap and ambiguity earlier).
+For Grace:
+Grace is to make a database that a python script can read from and write to as if it was a dictionary or list. The lists and dictionaries it needs to store are
+1. URLs of all pages we _need_ to fetch (list)
+2. URLs of all pages we _have_ fetched (list)
+3. URLs of all pages we _have_ parsed / processed into database (list)
+4. Adjacency lists (mapping of URL to list of URLs that this page points to) (dictionary)
+5. Inverted index (mapping of word to list of occurences 
+
+For Dean:
+1. Verify the FTP credentials give us write access so that we can install our plugin.
+2. Find out where we actually execute our crawler / parser script. 
+3. How do we change parameters for our crawler, parser, or article builder from the plugin.
+
+For Jacob:
+1. Modify the parser so that when the a page is parsed, its saved html page is deleted (but its relevant information is still saved to the database)
+2. Modify the crawler / parser to be able to easily interface with a database instead of dictionaries or lists
+3. Modify the crawler so it will pause if saving a page would go over some storage limit (a parameter)
+4. Modify the parser so that the inverted index will only be constructed from what we consider the main content of the page. 
+
+Word Count: 254

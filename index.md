@@ -100,8 +100,8 @@ Today, we presented our Architecture Design. In it describes the functions of th
 **_4/3/19_**
 We met today and talked about what each person will be working on moving forward. Grace will be working on the database. She will use a Lamp server which should be compatible with our Web Scraper. In our database, we will save the articles that were used to generate the article so that when the web crawler is looking for articles, it will avoid articles that we have already discovered. Grace mentioned that she was having difficulty logging into her Mutilab account. However, she mentioned that she will find a way to get access to her account and start the process of creating a LAMP server. The LAMP server will hold the list of pages that we need to fetch and the list of pages that we have already fetched. This avoids the issue of 
 
-- Grace will get access to Netlab and start the process of creating a LAMP server. 
-- List of pages we ned to fetch and list of pages that we have already fetched
+- Grace will get access to Netlab and start the process of creating a LAMP server
+- List of pages we need to fetch and list of pages that we have already fetched
 - If the time permits, we would like to have date that the article was fetched
 - Adjacency list- each URL followed by the thing that URL points to on its page
 - Dean needs to get the plugin to call the Script

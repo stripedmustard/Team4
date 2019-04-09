@@ -98,23 +98,12 @@ Today, we presented our Architecture Design. In it describes the functions of th
 - Presented prototype
 
 **_4/3/19_**
-We met today and talked about what each person will be working on moving forward. Grace will be working on the database. She will use a Lamp server which should be compatible with our Web Scraper. In our database, we will save the articles that were used to generate the article so that when the web crawler is looking for articles, it will avoid articles that we have already discovered. Grace mentioned that she was having difficulty logging into her Mutilab account. However, she mentioned that she will find a way to get access to her account and start the process of creating a LAMP server. The LAMP server will hold the list of pages that we need to fetch and the list of pages that we have already fetched. This avoids the issue of 
-
-- Grace will get access to Netlab and start the process of creating a LAMP server
-- List of pages we need to fetch and list of pages that we have already fetched
-- If the time permits, we would like to have date that the article was fetched
-- Adjacency list- each URL followed by the thing that URL points to on its page
-- Dean needs to get the plugin to call the Script
-- The databse will save the URL, the 
-- The difficult task to store Python dictionaries into a MYSQL database		
-- We want to have a sample of the database ready before we visit Ryan
-- Dean will create plugin settings menu
-- Store a python list or dictionary in a SQL database
+We met today and talked about what each person will be working on moving forward. Grace will be working on the database. She will use a Lamp server which should be compatible with our Web Scraper. In our database, we will save the articles that were used to generate the article so that when the web crawler is looking for articles, it will avoid articles that we have already discovered. Grace mentioned that she was having difficulty logging into her Mutilab account. However, she mentioned that she will find a way to get access to her account and start the process of creating a LAMP server. The LAMP server will hold the list of pages that we need to fetch and the list of pages that we have already fetched. That way, we avoid looking for content that we have already discovered. If we still have time, we would like to add the date that the article was fetched to the database. Jacob mentioned that we need an adjacency list, where each URL followed by the thing that the URL points to on its page. Dean stated that he will work on getting the Wordpress plugin to call the Script. Then, we talked more about the database. We mentioned that the database will save the URL of the webpage of the fetched articles so that we not only know have a record of discovered article, but we can retract back to the webpage if needed be. We all agreed that the difficult task is figuring out how to store Python dictionaries into a SQL database. Dean mentioned that he was made LAMP servers in the past and that we could probably use a LAMP server for our project. Grace plans to work on creating the LAMP server once she figures out what is going on with her Multilab account. Dean suggested that Grace work on the LAMP Server on his desktop and Grace agreed that would be a good solution if she is not able to get her account working. Someone brought that they would like to have a sample of the database ready before we visit Ryan. As of now, we are still figuring out a time that we all can meet. Jacob created a list that describes all of the things we need to do as of now. Jacob also went more into detail about the adjacency list, entailing what the adjacency list will do as well as why it is needed. Dean made up a list of things that he plans to do within the next few days. He mentioned that he plans to create a plugin settings menu that calls Jacob's script and then saves to draft. Once again, we brought up the database. We wanted to figure out if it is possible to store a Python list or dictionary in a database. Shortly after, we concluded the meeting.
 
 **_4/7/19_**
-Dean and Grace met to create a LAMP Server that will hold the Web 
+On Sunday, Grace went to Dean's house to create a LAMP server on Dean's virtual machine. They had some issues with permissions but were able to work around that. Finally, they were able to install mySQL and eventually, the LAMP Server was created. Grace will be working on the database. Grace will start off by creating a database with sample entries for the meantime. 
 
 **_4/8/19_**
 Today, we created a settings page that calls the Script in order to create a new article and saves the article as a draft. 
 
-Last Word count: 253
+Word Count: 977 words

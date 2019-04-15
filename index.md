@@ -106,4 +106,11 @@ On Sunday, Grace went to Dean's house to create a LAMP server on Dean's virtual 
 **_4/8/19_**
 Today, we created a settings page that calls the Script in order to create a new article and saves the article as a draft. 
 
-Word Count: 977 words
+
+Thursday 
+
+
+**_4/15/19_**
+Today, we met and discussed what other parts of the project need to be worked on. For the Coding Assigment Presentation, we would like to use Ryan's FTP permissions to install the plugin and the Python script. We logged into Ryan's FTP and discvovered that it did not work. For the presentation, we will provide screenshoos of the local Wordpress plugin. Grace mentioned that she would like to get the Scraper and Database integrated.
+
+Last Word Count: 1051 words

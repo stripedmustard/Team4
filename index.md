@@ -26,9 +26,11 @@
 
 ## Daily Activities
 **_1/18/19_**
-Today we met with Ryan, as a group, for the first time to go into more detail about the project. We went into specifics about the Blog Bot, learning that 
-
-Ryan mentioned that our Blog Bot must not publish the posts, but should send the posts to him. According to the Kentucky Bar Law Association, only lawyers can create such posts to their blog. Ryan said that the Blog Bot should send an email of the drafted post to him. Ryan said that he would prefer a range of five hundred to one thousand words on each blog post. In the middle of the meeting, he introduced us the Lonnie, their web guru. Lonnie mentioned that he is familiar with the logistics of our project and said that we can contact him if we have any questions or concerns. 
+Today we met with Ryan, as a group, for the first time to go into more detail about the project. We went into specifics about the Blog Bot. Ryan mentioned that our Blog Bot must not publish the posts, but should send the posts to him. According to the Kentucky Bar Law
+Association, only lawyers can create such posts to their blog. Ryan said that the Blog Bot should send an email of the drafted post to
+him. Ryan said that he would prefer a range of five hundred to one thousand words on each blog post. In the middle of the meeting, he
+introduced us the Lonnie, their web guru. Lonnie mentioned that he is familiar with the logistics of our project and said that we can
+contact him if we have any questions or concerns. 
 
 
 **_1/24/19_**
@@ -43,9 +45,6 @@ he would like to focus more specifically on DUI's. Jacob did research as well an
 for just about any legal topic that you could think of. In addition, it helps users find lawyers from various cities and states. When
 searching the term DUI on findlaw.com, we found our client, Cooley Iuliano Robey, PLLC, on the list of Top Lexington DUI Lawyers in
 Lexington, KY. This was an interesting thing to discover, especially at the beginning of our project. Grace found various websites 
-
-
-
 
 **_2/1/19_**<p>
 Met with Ryan and Lonnie via Google Hangouts and discussed:<p>
@@ -112,9 +111,11 @@ the database. We wanted to figure out if it is possible to store a Python list o
 the meeting.
 
 **_4/7/19_**
-On Sunday, Grace went to Dean's house to create a LAMP server on Dean's virtual machine. They had some issues with permissions but were
-able to work around that. Finally, they were able to install mySQL and eventually, the LAMP Server was created. Grace will be working on
-the database. Grace will start off by creating a database with sample entries for the meantime. 
+On Sunday, Grace met with Dean at his house to create a LAMP server on Dean's virtual machine. They had some issues with permissions but
+were able to work around that. Finally, they were able to install mySQL and eventually, the LAMP Server was created. Grace will be
+working on the database on Dean's virtual machine. Grace will start off by creating a database with sample entries for the meantime. She
+created an Article, Keyword, and Website table. The Article table holds the Article Name, an auto-incremented Article ID, and the
+Website URL. The Keyword table has the Keyword, the Article ID (generated in the Article table), 
 
 **_4/8/19_**
 Today, we created a settings page that calls the Script in order to create a new article and saves the article as a draft. 

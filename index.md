@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<a href="https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md">Dean</a> <p>
-	<a href="https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md">Grace</a> <p>
+	<a href="https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md">Dean</a> 
+	<a href="https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md">Grace</a> 
 	<a href="https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md">Jacob</a>
  <p>
 </body>

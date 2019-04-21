@@ -16,3 +16,4 @@ my code, I commented much more throughly than I did initially. Because of this m
 read and understand (and modify in the future if so desired). However, the one thing I am unhappy with is when storing files 
 locally, each time a funciton has to refrence a local file, it has to load in a local file for that function. Perhaps if I had
 more time I could find a more elegant solution, but for right now I am happy with the revisions I have made to this file.
+Word Count: 418

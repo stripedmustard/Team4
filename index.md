@@ -3,29 +3,8 @@
 <html>
 <body>
 <a href="https://github.com/stripedmustard/Team4/edit/master/index.md">Team 4</a>	
-</body>
-</html>
-
-## Dean
-<html>
-<body>
-		<a href="https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md">Dean</a>	
-	</body>
-	</html>
-	
-## Grace
-<html>
-<body>
+	<a href="https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md">Dean</a>	
 	<a href="https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md">Grace</a>	
-</body>
-</html>
-
-
-
-
-## Jacob
-<html>
-<body>
 	<a href="https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md">Jacob</a>
  
 </body>

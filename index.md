@@ -91,4 +91,4 @@ Thursday
 **_4/15/19_**
 Today, we met and discussed what other parts of the project need to be worked on. For the Coding Assigment Presentation, we would like to use Ryan's FTP permissions to install the plugin and the Python script. We logged into Ryan's FTP and discvovered that it did not work. For the presentation, we will provide screenshoos of the local Wordpress plugin. Grace mentioned that she would like to get the Scraper and Database integrated.
 
-Last Word Count: 1051 words
+Grace Word Count: 1051 words

@@ -1,0 +1,22 @@
+Today, I sought to further exapand upon the revisions that I made yesterday. That is, I am rewriting my code so that it is both
+better compartmentalized, the data flow will be revised in such a way that storage methods can be easily changed in one without
+greatly affecting another method, and recommenting/reviewing the code so that our group and I will be satisfied with the code 
+quality when the delivery date actually comes. The general outline of what this file does is firstly, load in the state information.
+This will let the program know where it was left off, and how long this has been going on (to enable future developers to estimate
+how various changes affect speed of fetch among other time related things. Then, the htmlPageFetch will attempt to get a URL
+from "where it left off" and will thus be able to attempt to fetch the data at that URL. It then will "try its best" to get
+the HTML from that URL. I use the phrase "try its best" here because depending on the mode the function was called in, the
+steps it goes through to fetch the HTML vary. After either getting or failing to get valid HTML, if it got valid html, it will
+save that HTML in a local file and update information that will notify other programs that this html file exists and can have
+valid information taken from it. Regardless of gettig valid HTML or not, as we have made our best effort at getting the HTML,
+we will move on to the next identifer (that corresponds with another URL). If enough time passes without sucessfully fetching 
+a HTML document, we presume something is wrong, and to better notify the user of this, cease execution of the program. In addition, 
+this program will succesfully save the state it was in even if there is an unexpected crash, so debugging with an experienced
+administrator should only be inconvient, and not confoundingly hard. Overall, I am satisfied with the revisions we made here.
+I feel that the code is much more clear now (as unnecessary complexity is hidden away, unless you want to see it). In addition, 
+I am happy with these changes mainly because I both got the chance to review my code, and if someone were to revisit this code in the 
+future, it would be much easier to understand and modify this code. If for example, we wanted to use multiprocessing to fetch multiple
+pages at once, I think that would be much more feasible now that it was previously. What I am unhappy about is that I wanted to time
+bound the function calling of attempting to fetch HTML pages, as I would like to have the ability to guarantee that program won't 
+stall when attempting to fetch a page, but the only solution I found that was satisfactory could only be used on UNIX systems. As
+we wanted the ability to have this program run on both UNIX and Windows, this was not a workable solution, and this part was scrapped.

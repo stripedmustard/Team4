@@ -1,0 +1,18 @@
+For the earlier parts of this week we were focusing on finalizing the coding assignment and working on our presentation.
+The work I did on the coding assignment was mainly reorganizing the thoughts of all of the group into a single document.
+For the presentation, Grace and I met up briefly to outline what we wanted the structure of the presentation to be, and then we all 
+individually went to fill our the sections over what we had worked on. We then met up to address any general concerns before 
+presenting to PresentationU. After consulting with the staff there, I made the suggestions that they made (which included actually  
+talking about brief topic slides to better break up the presentation, and making the bullet points I had made for my slide much more succinct)
+In the coding assignment, I mentioned that some of the modifications that I wanted to make on the final project included 
+making the code much more modular. In this session I worked towards that goal by modifying the script that will be directly run by the
+plugin (this file is also known as baseArticleSelector.py). What I had in mind was to create several funcitons that would have the same
+general functionality but would allow for the data to flow along different paths (based on different storage schemes). The reasons
+I have for this are threefold. Firstly, breaking up the code in this way makes for a much more clear pseudocode when referencing 
+the code at a glance. Secondly, it would easily allow for building of alternate ways to store the data for this project. Finally, doing
+this requires me to review my code more throughly than I might otherwise, allowing me to look at my code with a fresh eye, and requiring
+me to retest parts of my code I might not otherwise. When finished, I was quite pleased with the results overall. In the rewrite of 
+my code, I commented much more throughly than I did initially. Because of this more thorough rewriting, the code is much easier to 
+read and understand (and modify in the future if so desired). However, the one thing I am unhappy with is when storing files 
+locally, each time a funciton has to refrence a local file, it has to load in a local file for that function. Perhaps if I had
+more time I could find a more elegant solution, but for right now I am happy with the revisions I have made to this file.

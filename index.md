@@ -5,7 +5,6 @@
 	<a href="https://github.com/stripedmustard/Team4/blob/master/Dean/Dean.md">Dean</a> 
 	<a href="https://github.com/stripedmustard/Team4/blob/master/Grace/Grace.md">Grace</a> 
 	<a href="https://github.com/stripedmustard/Team4/blob/master/Jacob/Jacob.md">Jacob</a>
- <p>
 </body>
 </html>
 
@@ -27,9 +26,10 @@
 
 ## Daily Activities
 **_1/18/19_**
-- Met with Ryan
-- Went into specifics about the Blog Bot
-- We agreed that the recommended amount of words is 500-1000 words
+Today we met with Ryan, as a group, for the first time to go into more detail about the project. We went into specifics about the Blog Bot, learning that 
+
+Ryan mentioned that our Blog Bot must not publish the posts, but should send the posts to him. According to the Kentucky Bar Law Association, only lawyers can create such posts to their blog. Ryan said that the Blog Bot should send an email of the drafted post to him. Ryan said that he would prefer a range of five hundred to one thousand words on each blog post. In the middle of the meeting, he introduced us the Lonnie, their web guru. Lonnie mentioned that he is familiar with the logistics of our project.
+
 
 **_1/24/19_**
 - Creating the Web Crawler
@@ -91,4 +91,4 @@ Thursday
 **_4/15/19_**
 Today, we met and discussed what other parts of the project need to be worked on. For the Coding Assigment Presentation, we would like to use Ryan's FTP permissions to install the plugin and the Python script. We logged into Ryan's FTP and discvovered that it did not work. For the presentation, we will provide screenshoos of the local Wordpress plugin. Grace mentioned that she would like to get the Scraper and Database integrated.
 
-Grace Word Count: 1051 words
+Grace last Word Count: 1051 words

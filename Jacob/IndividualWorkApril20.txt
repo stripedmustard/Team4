@@ -20,3 +20,4 @@ pages at once, I think that would be much more feasible now that it was previous
 bound the function calling of attempting to fetch HTML pages, as I would like to have the ability to guarantee that program won't 
 stall when attempting to fetch a page, but the only solution I found that was satisfactory could only be used on UNIX systems. As
 we wanted the ability to have this program run on both UNIX and Windows, this was not a workable solution, and this part was scrapped.
+Word Count: 514

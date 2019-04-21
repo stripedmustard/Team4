@@ -8,3 +8,4 @@ optimize manually (i.e. going through each query we want to optimize for, and go
 is not our ultimate goal, and thus more must be done automatically for our team to be satisified with the product.
 Thus, some of the work I plan to do when I next work individually is to refine the database searcher so that results better correspond to what I think good article are, 
 and to create some program that automatically finds the top (somewhere in the range of 5 to 10) articles for all the given topics in a file or database.
+272 Words

@@ -1,12 +1,9 @@
-## Developer Notes
+## Creating the Database
 
 
 <!DOCTYPE html>
 <html>
 <body>
-  
-<p>Creating the database  </p>
-
 
 Before creating the database, I brainstormed, thinking of attributes and entries necessary for our project. Since it was just the
 beginning, I tried not to focus too much on 

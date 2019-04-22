@@ -2,14 +2,14 @@
 <html>
 <body>
 <p>  
-Meeting 1/29
+Meeting 1/29<p>
 I began this meeting by researching how our group can install a staging site for wordpress on one of our Windows computers.
 I then learned about WAMP, a Windows application for hosting Apache, MySQL and PHP  plugins.
 After installing WAMP on my desktop, I had to setup MyPHPadmin and create a database
 I created a database called "wordpress_db" and then installed wordpress using a .zip file from wordpress.org
 I created a wordpress plugin named 'articatch' by simply adding a file 'articatch.php' to the /wp-content/plugins directory.
 
-2/12/19
+2/12/19<p>
 During this meeting I did a lot of research on Page Optimizer Pro. One of my goals was to figure out how the website's functionality worked.
 I was assured when I realized that Page Optimizer Pro operated with the same logic as the Beautiful Soup API we had planned to implement.
 Our plan was to use Beautiful soup to keep a counter of keyterms and related terms' occurance per each verious HTML tag (such as < h1 >,< h2 >,< a >, etc).
@@ -19,7 +19,7 @@ For instance, if the software didn't find any comparison websites at all, it wou
 An easy solution to this of course would be to simply check whether comparison data was availabe.
 
 
-Meeting 4/3
+Meeting 4/3<p>
 During this meeting I did a lot of research over how I could construct our optimimum UI for the Wordpress plugin.
 Me and my group mates created game plan for how to complete the final stretch of our project:
 1. Create a plugin settings submenu, with a user interface that calls the program functions with the click of a button.
@@ -33,14 +33,14 @@ This means that I'd need a private key to to access, which I was not able to rec
 One for the keywords we'd be itemizing, one for the articles we've downloaded, and one for the websites we are crawling.
  
 
-Meeting 4/11
+Meeting 4/11<p>
 Met with Grace to revise and implement our database tables.
 The Keyword table will be the primarily accessed table, fetching Article ID's when the Wordpress plugin queries for a new article.
 The Article table will be used to fetch the website URL, once an article ID has been selected
 The Site ID table will be accessed at the end of each article query; its main purpose is to keep track of which articles have already been used before.
 I set up a new virtualbox on my local machine and installed a new LAMP server. Grace built a new database on Phpmyadmin with our 3 tables.
 
-Meeting 4/18
+Meeting 4/18<p>
 At this point Jacob had completed a new version of his python script, which is now taking urls to download from a neighboring JSON file.
  On this day my primary goal was to modify my plugin, which was currently calling an older version of Jacob's script that only read from a defined URL.
 In total it took me 11 hours to solve the problem. At first I simply changed the script path from the old script to the new one. When this didn't work, I assumed it was a problem with Apache not having sufficient permissions.

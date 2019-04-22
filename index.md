@@ -26,7 +26,8 @@
 
 ## Daily Activities
 **_1/18/19_**
-Today we met with Ryan, as a group, for the first time to go into more detail about the project. We went into specifics about the Blog Bot. Ryan mentioned that our Blog Bot must not publish the posts, but should send the posts to him. According to the Kentucky Bar Law
+Today we met with Ryan, as a group, for the first time to go into more detail about the project. We went into specifics about the Blog
+Bot. Ryan mentioned that our Blog Bot must not publish the posts, but should send the posts to him. According to the Kentucky Bar Law
 Association, only lawyers can create such posts to their blog. Ryan said that the Blog Bot should send an email of the drafted post to
 him. Ryan said that he would prefer a range of five hundred to one thousand words on each blog post. In the middle of the meeting, he
 introduced us the Lonnie, their web guru. Lonnie mentioned that he is familiar with the logistics of our project and said that we can
@@ -85,8 +86,8 @@ Today we had a meeting to practice presenting our Architecture Design Presentati
 Today, we presented our Architecture Design. In it describes the functions of the Web Crawler, Scraper, Plugin and Database. We provided a timeline that projects each step that it takes to create the Blog Bot. In addition, we added some strech goals that we would like to accomplish if the time permits. 
 
 **_3/19/19_**
-- Met with Ryan
-- Presented prototype
+Jacob and Dean met with Ryan at his office and presented the prototype. They had some difficulties presenting it, so Dean created a
+video that walks through our Wordpress plugin.
 
 **_4/3/19_**
 We met today and talked about what each person will be working on moving forward. Grace will be working on the database. She will use a
@@ -120,14 +121,11 @@ Website URL. The Keyword table has the Keyword, the Article ID (generated in the
 **_4/8/19_**
 Today, we created a settings page that calls the Script in order to create a new article and saves the article as a draft. 
 
-
-Thursday 
-
-
 **_4/15/19_**
-Today, we met and discussed what other parts of the project need to be worked on. For the Coding Assigment Presentation, we would like
-to use Ryan's FTP permissions to install the plugin and the Python script. We logged into Ryan's FTP and discvovered that it did not
-work. For the presentation, we will provide screenshoos of the local Wordpress plugin. Grace mentioned that she would like to get the
-Scraper and Database integrated.
+Today, we met and discussed what other parts of the projects that we need to work on. For the demo of the Coding Assigment Presentation, we would like to use Ryan's FTP permissions to install the plugin and the Python script. We logged into Ryan's FTP and discvovered that it did not work. After doing some thinking, we concluded that, for the presentation, we will provide screenshoos of the local Wordpress plugin. Grace mentioned that she would like to get the Web Crawler and Database integrated. Even though our parts are completed individually, we have yet to bring all the Web Crawler, Wordpress plugin and database together. It is not a simple task, but we hope to complete this during the weekend. 
 
-Grace last Word Count: 1051 words
+**_4/26/19_**
+Today, we integrated the Wordpress Plugin with the Web Crawler. We are still trying to integrate the Wordpress Plugin with the database. 
+
+
+Grace Word Count: 1573 words

@@ -12,7 +12,7 @@ I created a wordpress plugin named 'articatch' by simply adding a file 'articatc
 2/12/19
 During this meeting I did a lot of research on Page Optimizer Pro. One of my goals was to figure out how the website's functionality worked.
 I was assured when I realized that Page Optimizer Pro operated with the same logic as the Beautiful Soup API we had planned to implement.
-Our plan was to use Beautiful soup to keep a counter of keyterms and related terms' occurance per each verious HTML tag (such as "<h1>,<h2>,<a>, etc)".
+Our plan was to use Beautiful soup to keep a counter of keyterms and related terms' occurance per each verious HTML tag (such as <<h1>>,<<h2>>,<<a>>, etc).
 I did discover one shortcoming of Page Optimizer Pro. It seems to me that when the software was aimed at evaluating the Search Engine Optimization of a certain site, it would use the keyword statistics of comparison sites to do so. 
 The problem being, if there wasn't any keyword data at all on the comparison sites, then the Page Optimizer tool would reprt false positives.
 For instance, if the software didn't find any comparison websites at all, it would report that they had 0 occurances of the keyword. But in reality there was just 0 data.

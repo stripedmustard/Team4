@@ -17,5 +17,6 @@ attribute in the Article table, I just created a Fetched table with a Fetched at
 
 On Monday April 15, we met together to talk about finalizing the project. Grace described her database. Jacob suggested that we rename the
 "Article" table as well as the "Website" table. We renamed "Article" to "Webpage". 
+
 <p>
 Word Count: 242

@@ -15,4 +15,6 @@ keywords. I created a Website table that hold the URL and the title of the webpa
 table that tells the user whether we have downloaded and created a blog post out of the article. Because I had issues creating the Fetched
 attribute in the Article table, I just created a Fetched table with a Fetched attribute for the meantime. 
 
-On Monday April 15, we met together to talk about finalizing the project. 
+On Monday April 15, we met together to talk about finalizing the project. Grace described her database. Jacob suggested that we rename the
+"Article" table as well as the "Website" table. We renamed "Article" to "Webpage". 
+Word Count: 242
